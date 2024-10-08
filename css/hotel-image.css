@@ -1,0 +1,26 @@
+hotel-card {
+    max-width: 50px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #e7a20c;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.hotel-image {
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.hotel-card h3 {
+    color: #2c3e50;
+    margin-bottom: 8px;
+}
+
+.hotel-card p {
+    color: #34495e;
+    margin: 5px 0;
+}
